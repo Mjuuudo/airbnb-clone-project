@@ -51,7 +51,7 @@
 
 <hr>
 
-### Tech Stack Used  In The Project
+### Technology Stack
 
 > Python 3
 <br>
@@ -71,9 +71,56 @@
 > CSS3
 <br>
 
-> Docker/ Jenkins
+> Docker/ Jenkins / GraphQL
 
 
+### Project Contributors && Feature Breakdown
+
+> <mark>  Abdelmajid Ait ouaziz Tasks </mark>
+<br>
+
+>> User System [ ]
+<br>
+
+>> Booking System [ ]
+<br>
+
+>> Admin Panel [ ]
+<br>
+
+> <mark> Sara Sattar  Tasks</mark> 
+<br>
+
+>> Reviews & Ratings [ ]
+<br>
+
+>> Databases Designing && Deploying [ ]
+<br>
+
+>> Property Listings [ ]
+
+### Database Design
+
+* Users
+    1. Full Name
+    2. Phonenumber
+    3. Email Adresse
+* Properties
+    1. Location
+    2. Price
+    3. Owner
+* Bookings
+    1. Id
+    2. Client
+    3. Amount
+* Reviews
+    1. Username
+    2. Comment
+    3. Date
+* Payments
+    1. Owner
+    2. Amount
+    3. Date
 
 
 
