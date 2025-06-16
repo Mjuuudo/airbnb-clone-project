@@ -74,7 +74,9 @@
 > Docker/ Jenkins / GraphQL
 
 
-### Project Contributors && Feature Breakdown
+### Team Roles 
+
+### Feature Breakdown
 
 > <mark>  Abdelmajid Ait ouaziz Tasks </mark>
 <br>
