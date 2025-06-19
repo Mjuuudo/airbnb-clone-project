@@ -1,6 +1,6 @@
 # **airbnb-clone-project**
 
-### Project Descreption
+###  🚀 Project Descreption
 
 <!-- Little Introduction for the project -->
 
@@ -14,7 +14,7 @@
 
 <hr>
 
-### Tasks To be realised
+### 🏆 Tasks To be realised
 
 ✅ User System
 * Register, login, logout
@@ -125,6 +125,24 @@
     3. Date
 
 
+### API Security
+
+Application Programming Interface is a gateway for another application to access and  use data<br>
+Normally Communication Between Api's  is made by using JSON Files Formats, So yes other app's<br>
+can access other api's data, thats why we need to make it protected ! How ??
+* Checking Users Roles && Rights
+* Crypting Passwords
+* Limiting access to concerned Users
+
+and more of the reasons
+
+
+### CI/CD Pipeline
+
+Is A Methodolgy that allow us automate the process of modify, test deploy our code <br>
+For this we need a Platform like Github or Gitlab Which are Great for Developement <br>
+Jenkins or docker and python for conternarization and and for unit testing<br>
+then Deploying New Feautures With ability to fast rollback in case of somthing fails <br>
 
 
 
